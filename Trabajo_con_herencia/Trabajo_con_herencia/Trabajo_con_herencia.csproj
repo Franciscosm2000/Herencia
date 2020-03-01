@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7CF91B52-EA99-48C9-A332-997C70DF7F29}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Trabajo_con_herencia</RootNamespace>
+    <AssemblyName>Trabajo_con_herencia</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Congelados_por_aire.cs" />
+    <Compile Include="Congelado_por_agua.cs" />
+    <Compile Include="Congelado_por_nitrogeno.cs" />
+    <Compile Include="testHerencia3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testHerencia3.Designer.cs">
+      <DependentUpon>testHerencia3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mostrando.Designer.cs">
+      <DependentUpon>Mostrando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos.cs" />
+    <Compile Include="Productos_Congelados.cs" />
+    <Compile Include="Productos_Refrigerados.cs" />
+    <Compile Include="Producto_Frescos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vcongelado_Acs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vcongelado_Acs.Designer.cs">
+      <DependentUpon>Vcongelado_Acs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vcongelado_agua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vcongelado_agua.Designer.cs">
+      <DependentUpon>Vcongelado_agua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vcongelado_nitro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vcongelado_nitro.Designer.cs">
+      <DependentUpon>Vcongelado_nitro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana_Pfrescos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana_Pfrescos.Designer.cs">
+      <DependentUpon>ventana_Pfrescos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventana_Prefrigerados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventana_Prefrigerados.Designer.cs">
+      <DependentUpon>Ventana_Prefrigerados.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="testHerencia3.resx">
+      <DependentUpon>testHerencia3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mostrando.resx">
+      <DependentUpon>Mostrando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vcongelado_Acs.resx">
+      <DependentUpon>Vcongelado_Acs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vcongelado_agua.resx">
+      <DependentUpon>Vcongelado_agua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vcongelado_nitro.resx">
+      <DependentUpon>Vcongelado_nitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventana_Pfrescos.resx">
+      <DependentUpon>ventana_Pfrescos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventana_Prefrigerados.resx">
+      <DependentUpon>Ventana_Prefrigerados.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

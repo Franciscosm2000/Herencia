@@ -1,0 +1,32 @@
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\bin\Debug\Trabajo_con_herencia.exe.config
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\bin\Debug\Trabajo_con_herencia.exe
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\bin\Debug\Trabajo_con_herencia.pdb
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.csprojResolveAssemblyReference.cache
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Properties.Resources.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.csproj.GenerateResource.cache
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.csproj.CoreCompileInputs.cache
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.exe
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.pdb
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.ventana_Pfrescos.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Ventana_Prefrigerados.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Mostrando.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Vcongelado_Acs.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Vcongelado_agua.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.testHerencia3.resources
+C:\Users\francisco sandoval\Documents\C#\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Vcongelado_nitro.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\bin\Debug\Trabajo_con_herencia.exe.config
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\bin\Debug\Trabajo_con_herencia.exe
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\bin\Debug\Trabajo_con_herencia.pdb
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.csprojAssemblyReference.cache
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.testHerencia3.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Mostrando.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Properties.Resources.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Vcongelado_Acs.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Vcongelado_agua.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Vcongelado_nitro.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.ventana_Pfrescos.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.Ventana_Prefrigerados.resources
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.csproj.GenerateResource.cache
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.csproj.CoreCompileInputs.cache
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.exe
+E:\Trabajos en linea de programacion 2\Trabajo_con_herencia\Trabajo_con_herencia\Trabajo_con_herencia\obj\Debug\Trabajo_con_herencia.pdb
